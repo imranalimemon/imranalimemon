@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Imran Ali ðŸ‘‹</h1>
-<h3 align="center">AI Engineer Â· Computer Vision Â· Agentic AI Â· MUET Jamshoro '26</h3>
+<h1 align="center">Hi, I'm Imran Ali</h1>
+<h3 align="center">AI Engineer &#183; Computer Vision &#183; Agentic AI &#183; MUET Jamshoro '26</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imran-ali-memon-108a3b2a0">
@@ -13,19 +13,19 @@
 
 ---
 
-### ðŸ§  About Me
+### About Me
 
-- ðŸŽ“ Final-year **Computer Systems Engineering** student at **MUET Jamshoro** (Class of 2026)
-- ðŸ’¼ **AI/ML Intern at [FIDSOR](https://fidsor.com)** â€” Building production AI chatbot systems
-- ðŸ›¡ï¸ Built **SafeGuard AI** â€” real-time PPE detection for construction site safety using **YOLOv8**
-- ðŸ¤– Built **KAPL Chatbot** â€” AI-powered bilingual chatbot for King Abdulaziz Public Library using **Gemini + FastAPI**
-- ðŸ“š Self-taught **Machine Learning & Deep Learning** through hands-on projects (Python, PyTorch)
-- ðŸŒ± Currently learning **Agentic AI** â€” LangChain, CrewAI, RAG pipelines, LangGraph
-- ðŸŽ¯ Interests: Computer Vision Â· NLP Â· AI Chatbots Â· Practical ML Deployment
+- Final-year **Computer Systems Engineering** student at **MUET Jamshoro** (Class of 2026)
+- **AI/ML Intern at [FIDSOR](https://fidsor.com)** - Building production AI chatbot systems
+- Built **SafeGuard AI** - real-time PPE detection for construction site safety using **YOLOv8**
+- Built **KAPL Chatbot** - AI-powered bilingual chatbot for King Abdulaziz Public Library using **Gemini + FastAPI**
+- Self-taught **Machine Learning & Deep Learning** through hands-on projects (Python, PyTorch)
+- Currently learning **Agentic AI** - LangChain, CrewAI, RAG pipelines, LangGraph
+- Interests: Computer Vision, NLP, AI Chatbots, Practical ML Deployment
 
 ---
 
-### âš™ï¸ Tech Stack
+### Tech Stack
 
 **AI & Machine Learning**
 
@@ -65,30 +65,30 @@
 
 ---
 
-### ðŸ¢ Experience
+### Experience
 
 | Role | Company | Duration | Highlights |
 |------|---------|----------|------------|
-| **AI/ML Intern** | **FIDSOR** | Jun 2026 â€“ Present | Built production AI chatbot for KAPL using Gemini + FastAPI |
+| **AI/ML Intern** | **FIDSOR** | Jun 2026 - Present | Built production AI chatbot for KAPL using Gemini + FastAPI |
 
 ---
 
-### ðŸš€ Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| ðŸ¤– [**KAPL Chatbot**](https://github.com/imranalimemon/kapl-chatbot) | AI chatbot for King Abdulaziz Public Library â€” bilingual (EN/AR), embeddable widget | Gemini 2.5 Â· FastAPI Â· JavaScript |
-| ðŸ›¡ï¸ [**SafeGuard AI**](https://github.com/imranalimemon/safeguard-ai-ppe-detection) | Real-time PPE detection for construction site safety monitoring | YOLOv8 Â· OpenCV Â· Streamlit |
-| ðŸ† [**Salani ML Explorer**](https://github.com/imranalimemon/smit-hackathon-ml-explorer) | Upload any CSV, choose a model, get instant ML results â€” SMIT Hackathon | Python Â· Streamlit Â· Scikit-learn |
-| ðŸ“Š [**ML Projects Collection**](https://github.com/imranalimemon/ml-projects-collection) | 8 sub-projects: regression, classification, clustering, CNN, NLP | PyTorch Â· Scikit-learn |
-| ðŸŽ“ [**Student Placement Prediction**](https://github.com/imranalimemon/student_placement_prediction) | ML model predicting campus placement outcomes | Python Â· Scikit-learn Â· Pandas |
-| ðŸ¥ [**Hospital Database**](https://github.com/imranalimemon/hospital-database-sql) | Full relational DB design with complex queries | SQL Â· MySQL Â· Python |
-| ðŸ“˜ [**DSA in Python**](https://github.com/imranalimemon/dsa-algorithms-python) | Data structures & algorithms from scratch â€” sorting, BST, graphs | Python |
-| ðŸ« [**School Management**](https://github.com/imranalimemon/school_management) | Object-oriented system with encapsulation, inheritance, polymorphism | Python Â· OOP |
+| [**KAPL Chatbot**](https://github.com/imranalimemon/kapl-chatbot) | AI chatbot for King Abdulaziz Public Library - bilingual (EN/AR), embeddable widget | Gemini 2.5, FastAPI, JavaScript |
+| [**SafeGuard AI**](https://github.com/imranalimemon/safeguard-ai-ppe-detection) | Real-time PPE detection for construction site safety monitoring | YOLOv8, OpenCV, Streamlit |
+| [**Salani ML Explorer**](https://github.com/imranalimemon/smit-hackathon-ml-explorer) | Upload any CSV, choose a model, get instant ML results - SMIT Hackathon | Python, Streamlit, Scikit-learn |
+| [**ML Projects Collection**](https://github.com/imranalimemon/ml-projects-collection) | 8 sub-projects: regression, classification, clustering, CNN, NLP | PyTorch, Scikit-learn |
+| [**Student Placement Prediction**](https://github.com/imranalimemon/student_placement_prediction) | ML model predicting campus placement outcomes | Python, Scikit-learn, Pandas |
+| [**Hospital Database**](https://github.com/imranalimemon/hospital-database-sql) | Full relational DB design with complex queries | SQL, MySQL, Python |
+| [**DSA in Python**](https://github.com/imranalimemon/dsa-algorithms-python) | Data structures and algorithms from scratch - sorting, BST, graphs | Python |
+| [**School Management**](https://github.com/imranalimemon/school_management) | Object-oriented system with encapsulation, inheritance, polymorphism | Python, OOP |
 
 ---
 
-### ðŸŒ± Currently Learning
+### Currently Learning
 
 - **Agentic AI**: LangChain, LangGraph, CrewAI, multi-agent systems
 - **RAG Pipelines**: ChromaDB, FAISS, document Q&A systems
@@ -97,7 +97,7 @@
 
 ---
 
-### ðŸ“Š GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imranalimemon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
