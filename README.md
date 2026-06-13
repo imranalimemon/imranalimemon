@@ -16,12 +16,13 @@
 ### About Me
 
 - Final-year **Computer Systems Engineering** student at **MUET Jamshoro** (Class of 2026)
-- **AI/ML Intern at [FIDSOR](https://fidsor.com)** - Building production AI chatbot systems
+- Former **AI/ML Intern at FIDSOR** - Built and shipped a production AI chatbot for a Saudi library
 - Built **SafeGuard AI** - real-time PPE detection for construction site safety using **YOLOv8**
 - Built **KAPL Chatbot** - AI-powered bilingual chatbot for King Abdulaziz Public Library using **Gemini + FastAPI**
 - Self-taught **Machine Learning & Deep Learning** through hands-on projects (Python, PyTorch)
 - Currently learning **Agentic AI** - LangChain, CrewAI, RAG pipelines, LangGraph
 - Interests: Computer Vision, NLP, AI Chatbots, Practical ML Deployment
+- **Open to AI/ML internship opportunities**
 
 ---
 
@@ -69,7 +70,7 @@
 
 | Role | Company | Duration | Highlights |
 |------|---------|----------|------------|
-| **AI/ML Intern** | **FIDSOR** | Jun 2026 - Present | Built production AI chatbot for KAPL using Gemini + FastAPI |
+| **AI/ML Intern** | **FIDSOR** | May - Jun 2026 | Built and shipped production AI chatbot for King Abdulaziz Public Library using Gemini + FastAPI |
 
 ---
 
